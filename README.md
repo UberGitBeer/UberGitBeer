@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UberGitBeer
+- 👋 Hi, I’m @UberGitBear
 - 👀 I’m interested in learning about cyber security as a student.
 - 🌱 I’m currently learning to do the basics.
 - 😄 Pronouns: he/Him
